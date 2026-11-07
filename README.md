@@ -126,7 +126,7 @@ My core focus centers on **AI/ML, Generative AI, and LLM Engineering** — movin
 <div align="center">
 
 <a href="https://github.com/omkarchoudhary29/FraudShield_AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=omkarchoudhary29&repo=FraudShield_AI&theme=transparent&hide_border=true&title_color=F5C451&text_color=E6EDF3&icon_color=F5C451" alt="FraudShield AI repository card" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omkarchoudhary29&repo=FraudShield_AI&theme=transparent&hide_border=true&title_color=F5C451&text_color=E6EDF3&icon_color=F5C451" alt="FraudShield AI repository card" />
 </a>
 
 </div>
@@ -216,16 +216,16 @@ My core focus centers on **AI/ML, Generative AI, and LLM Engineering** — movin
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omkarchoudhary29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C451&text_color=E6EDF3&icon_color=F5C451&rank_icon=github" alt="Omkar's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarchoudhary29&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F5C451&text_color=E6EDF3" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarchoudhary29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5C451&text_color=E6EDF3&icon_color=F5C451&rank_icon=github" alt="Omkar's GitHub statistics" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omkarchoudhary29&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F5C451&text_color=E6EDF3" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=omkarchoudhary29&theme=dark&hide_border=true&background=0D1117&ring=F5C451&fire=F5C451&currStreakLabel=F5C451&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=omkarchoudhary29&theme=dark&hide_border=true&background=0D1117&ring=F5C451&fire=F5C451&currStreakLabel=F5C451&sideLabels=E6EDF3&dates=9CA3AF" alt="GitHub contribution streak" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omkarchoudhary29&bg_color=0D1117&color=F5C451&line=F5C451&point=FFFFFF&area=true&area_color=F5C451&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://ghchart.rshah.org/F5C451/omkarchoudhary29" alt="Omkar's Contribution Graph" />
 
 </div>
 
