@@ -51,7 +51,7 @@ An AI-assisted geospatial intelligence platform that combines satellite thermal 
 
 **Stack:** Python · Flask · React · TypeScript · PostgreSQL · PostGIS · Scikit-learn · NASA FIRMS · OpenStreetMap · Docker
 
-[View KRATOS repository](https://github.com/omkarchoudhary29/kratos-industrial-thermal-intelligence)
+[View KRATOS repository](https://github.com/omkarchoudhary29/kratos-industrial-thermal-intelligence) · [Open live KRATOS application](https://kratos-app-production.up.railway.app)
 
 ### 2. MarketPath AI — Omnichannel D2C Commerce Platform
 
@@ -64,7 +64,7 @@ An AI-assisted commerce operating platform designed to help D2C brands manage pr
 
 **Stack:** Python · FastAPI · React · TypeScript · Tailwind CSS · Google Gemini · Railway
 
-[View MarketPath AI repository](https://github.com/omkarchoudhary29/MarketPath-AI)
+[View MarketPath AI repository](https://github.com/omkarchoudhary29/MarketPath-AI) · [Open live MarketPath AI application](https://marketpath-app-production.up.railway.app)
 
 ### 3. Enterprise Knowledge Navigator — PDF Intelligence & RAG
 
@@ -77,7 +77,8 @@ An enterprise document intelligence platform for searching and reasoning over te
 
 **Stack:** Python · FastAPI · Streamlit · ChromaDB · Sentence Transformers · BM25 · LangChain · LangGraph · PyMuPDF · Tesseract OCR · Docker
 
-[View PDF Intelligence repository](https://github.com/omkarchoudhary29/PDF-Intelligence)
+[View PDF Intelligence repository](https://github.com/omkarchoudhary29/PDF-Intelligence)  
+**Live demo:** Deployment pending; a public application domain has not yet been generated or confirmed.
 
 ---
 
