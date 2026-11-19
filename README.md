@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0B0F14,55:151B23,100:24201A&text=OMKAR%20CHOUDHARY&fontColor=F5C451&fontSize=42&fontAlignY=38&desc=AI%2FML%20%7C%20GENERATIVE%20AI%20%7C%20LLM%20ENGINEERING&descAlignY=59&descSize=15" alt="Omkar Choudhary — AI/ML and Generative AI" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F14,55:151B23,100:24201A&text=OMKAR%20CHOUDHARY&fontColor=F5C451&fontSize=42&fontAlignY=38&desc=AI%2FML%20%7C%20GENERATIVE%20AI%20%7C%20LLM%20ENGINEERING&descAlignY=59&descSize=15" alt="Omkar Choudhary — AI/ML and Generative AI" />
 
 <br/>
 
